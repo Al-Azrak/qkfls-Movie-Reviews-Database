@@ -1,5 +1,5 @@
 ---
 applications:
- - name: movies-reviews-database
+ - name: CD0201-38a-nodesample
    random-route: false
    memory: 128M
